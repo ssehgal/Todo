@@ -5,7 +5,9 @@
 	padding:10px;
 	height:75%;
 }
-
+.selected, .selected:hover{
+	background-color: #FFA3C2 !important;
+}
 .rightbar
 {
 	background-color:lavenderblush;
@@ -23,4 +25,9 @@
 {
 	margin-top: 42.8% fixed;
 	margin-left:10px;
+}
+
+.invis
+{
+	display:none;
 }
