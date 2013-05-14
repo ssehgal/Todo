@@ -1,0 +1,26 @@
+.leftbar
+{
+	background-color:peachpuff;
+	margin-top : 50px;
+	padding:10px;
+	height:75%;
+}
+
+.rightbar
+{
+	background-color:lavenderblush;
+	margin-top:50px;
+	height:75%;
+}
+
+.addlist
+{
+	margin-top: 260% fixed;
+	width: 460%;
+}
+
+.addlistitem
+{
+	margin-top: 42.8% fixed;
+	margin-left:10px;
+}
