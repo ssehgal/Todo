@@ -25,8 +25,8 @@ $(function(){
 		$("#appendedInputButtons2").val("");
 	})
 	
-	$(".close").click(function()
+	$(".close").live('click', function()
 	{
-		$("#itemtable").remove("#tableRow");
+		$(this).parent().parent().remove();
 	})
 })
