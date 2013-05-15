@@ -1,18 +1,18 @@
 .leftbar
 {
 	background-color:peachpuff;
-	margin-top : 50px;
+	margin-top : 1%;
 	padding:10px;
-	height:75%;
+	height:79%;
 }
-.selected, .selected:hover{
+.selected{
 	background-color: cornsilk !important;
 }
 .rightbar
 {
-	background-color:lavenderblush;
-	margin-top:50px;
-	height:75%;
+	background-color:lightgray;
+	margin-top:1%;
+	height:79%;
 }
 
 .addlist
